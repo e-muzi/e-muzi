@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @e-muzi
+- 👀 I’m interested in coding!
+- 🌱 I’m currently learning c++ and react-native app development (HTML && CSS && JS).
+- 💞️ Feel free to msg me!
+- 📫 I'm always at CPU(INNO LAB and Library) or the Public Library.
